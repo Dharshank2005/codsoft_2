@@ -1,16 +1,36 @@
-# to_do_list_app
+### Task Manager README
+## Overview:
 
-A new Flutter project.
+The Task Manager app is a simple and efficient tool for managing your tasks. It allows you to create, edit, and delete tasks, as well as mark them as completed. The app is built using Flutter and Provider state management for a seamless user experience.
 
-## Getting Started
+## Features:
 
-This project is a starting point for a Flutter application.
+* Add new tasks
+* Edit existing tasks
+* Delete tasks
+* Mark tasks as completed
+* Responsive design for iOS and Android
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Getting Started:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Clone the repository:
+git clone https://github.com/your-username/task-manager.git
+
+### Navigate to the project directory:
+cd task-manager
+
+### Install dependencies:
+flutter pub get
+
+### Run the app:
+flutter run
+
+## Dependencies:
+
+flutter: ^3.0.0
+provider: ^6.0.0
+
+## Contributing:
+
+Contributions are welcome! If you have suggestions or find any issues, feel free to create an issue or submit a pull request.
